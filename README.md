@@ -11,3 +11,5 @@
 [Бенчмарк для студентов 5 курса ВМК МГУ](dj_sas_benchmark.ipynb) для задачи https://sascompetitions.ru
 
 [Бенчмарк для студентов 2 курса ВМК МГУ](dj_Benchmark_12trip.ipynb) для задачи 1 соревнования https://boosters.pro/championship/onetwotrip_challenge/overview
+
+[Бенчмарк для студентов ПЗАД](mkb_benchmark.ipynb) для задачи соревнования [Хакатон МКБ 2021](https://dsbattle.com/hackathons/mkb/)
